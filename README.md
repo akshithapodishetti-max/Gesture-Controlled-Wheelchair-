@@ -33,7 +33,7 @@ Embedded systems project that enables wheelchair navigation through acceleromete
 
 ## Circuit Diagram
 
-![RX Circuit Diagram](Images/RX CIRCUIT.jpeg)
+![RX CIRCUIT](Images/GWC.jpeg)
 
 ## Future Improvements
 
