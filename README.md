@@ -29,7 +29,12 @@ Embedded systems project that enables wheelchair navigation through acceleromete
 
 ## Project Image
 
-![Gesture Controlled Wheelchair](Images/image.png)
+![Gesture Controlled Wheelchair](Images/GWC.png)
+
+## Circuit Diagram
+
+![RX Circuit Diagram](Images/RX CIRCUIT.jpeg)
+![TX Circuit Diagram](Images/TX CIRCUIT.jpeg)
 
 ## Future Improvements
 
