@@ -14,15 +14,15 @@ The Gesture Controlled Wheelchair is designed to help users control wheelchair m
 
 ### Gesture Controller
 
-![Gesture Controller](Images/Gesture_Controller.jpeg)
+![Gesture Controller](Images/GWC.jpeg)
 
 ### RX Circuit
 
-![RX Circuit](Images/RX_CIRCUIT.jpeg)
+![RX Circuit](Images/RX%20CIRCUIT.jpeg)
 
 ### TX Circuit
 
-![TX Circuit](Images/TX_CIRCUIT.jpeg)
+![TX Circuit](Images/TX%20CIRCUIT.jpeg)
 
 ---
 
@@ -116,73 +116,3 @@ The Gesture Controlled Wheelchair is designed to help users control wheelchair m
 - Wireless Communication
 - Embedded Systems Design
 - Hardware Integration
-
----
-
-## Repository Structure
-
-Gesture-Controlled-Wheelchair/
-│
-├── README.md
-├── Gesture_Controlled_Wheelchair.ino
-├── Images/
-│ ├── Gesture_Controller.jpeg
-│ ├── RX_CIRCUIT.jpeg
-│ └── TX_CIRCUIT.jpeg
-├── Circuit_Diagram.pdf
-└── Project_Report.pdf
-
----
-
-## Author
-
-**Akshitha Podishetti**
-
-Electronics and Communication Engineering (ECE)
-# Gesture-Controlled-Wheelchair-
-
-## Overview
-
-Embedded systems project that enables wheelchair navigation through accelerometer-based gesture detection and wireless RF transmission, providing an intuitive mobility solution.
-
-## Features
-
-- Forward movement
-- Backward movement
-- Left movement
-- Right movement
-- Stop
-
-## Components Used
-
-- Arduino Uno
-- ADXL335 Accelerometer Sensor
-- L298N Motor Driver
-- DC Motors
-- Battery
-
-## Technologies Used
-
-- Embedded C
-- Arduino IDE
-- Electronics
-- Wireless Communication
-
-## Project Image
-
-![Gesture Controlled Wheelchair](Images/GWC.jpeg)
-
-## RX Circuit
-
-![RX Circuit](Images/RX%20CIRCUIT.jpeg)
-
-## TX Circuit
-
-![TX Circuit](Images/TX%20CIRCUIT.jpeg)
-
-## Future Improvements
-
-- Obstacle detection
-- Voice control
-- IoT monitoring
-- Emergency SOS feature  
