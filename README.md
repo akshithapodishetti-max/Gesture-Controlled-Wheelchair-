@@ -27,6 +27,10 @@ Embedded systems project that enables wheelchair navigation through acceleromete
 - Electronics
 - Wireless Communication
 
+## Project Image
+
+![Gesture Controlled Wheelchair](Images/wheelchair.jpg)
+
 ## Future Improvements
 
 - Obstacle detection
